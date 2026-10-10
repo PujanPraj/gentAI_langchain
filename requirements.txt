@@ -1,8 +1,7 @@
-streamlit
-
 # LangChain Core
 langchain
 langchain-core
+langchain-classic
 
 # OpenAI Integration
 langchain-openai
@@ -28,3 +27,4 @@ python-dotenv
 
 # Machine Learning
 numpy
+scikit-learn
