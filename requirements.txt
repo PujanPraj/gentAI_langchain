@@ -2,6 +2,8 @@
 langchain
 langchain-core
 langchain-classic
+langchain-community
+langchain-docling
 
 # OpenAI Integration
 langchain-openai
@@ -28,3 +30,6 @@ python-dotenv
 # Machine Learning
 numpy
 scikit-learn
+
+pypdf
+bs4
