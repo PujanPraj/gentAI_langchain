@@ -4,6 +4,7 @@ langchain-core
 langchain-classic
 langchain-community
 langchain-docling
+langchain-text-splitters
 
 # OpenAI Integration
 langchain-openai
